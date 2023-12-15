@@ -3,11 +3,21 @@
 
 # Description:
     A very Basic platformer game that I want to do.
+    Not much changed from my first idea, mostly just the appearance of the game
 
 # Instructions:
     Probably need pygame to operate
     Controls are AWD
     There are some loud sound so recommended to lower the volume before playing
+
+# Things I want to do if I had more time:
+    More levels for the game
+    Bigger Map
+    Better NPCs
+    More Items and Actions
+
+# My contact info:
+    longtnguyen@lewisu.edu
 
 
 # Images Sources:
